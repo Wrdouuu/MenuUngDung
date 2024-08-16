@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\MenuUngDung\bin\Debug\net8.0\MenuUngDung.exe
+C:\Users\admin\Desktop\Bai tap\MenuUngDung\bin\Debug\net8.0\MenuUngDung.deps.json
+C:\Users\admin\Desktop\Bai tap\MenuUngDung\bin\Debug\net8.0\MenuUngDung.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\MenuUngDung\bin\Debug\net8.0\MenuUngDung.dll
+C:\Users\admin\Desktop\Bai tap\MenuUngDung\bin\Debug\net8.0\MenuUngDung.pdb
+C:\Users\admin\Desktop\Bai tap\MenuUngDung\obj\Debug\net8.0\MenuUngDung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\MenuUngDung\obj\Debug\net8.0\MenuUngDung.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\MenuUngDung\obj\Debug\net8.0\MenuUngDung.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\MenuUngDung\obj\Debug\net8.0\MenuUngDung.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\MenuUngDung\obj\Debug\net8.0\MenuUngDung.dll
+C:\Users\admin\Desktop\Bai tap\MenuUngDung\obj\Debug\net8.0\refint\MenuUngDung.dll
+C:\Users\admin\Desktop\Bai tap\MenuUngDung\obj\Debug\net8.0\MenuUngDung.pdb
+C:\Users\admin\Desktop\Bai tap\MenuUngDung\obj\Debug\net8.0\MenuUngDung.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\MenuUngDung\obj\Debug\net8.0\ref\MenuUngDung.dll
